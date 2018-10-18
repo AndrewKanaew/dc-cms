@@ -1,0 +1,16 @@
+{
+    "name": "digitalcolors/cms",
+    "authors": [
+        {
+            "name": "Andrew Kanaev",
+            "email": "andrew.kanaew@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":  {
+            "Engine\\": "Engine",
+            "Engine\\DI\\": "Engine/DI"
+        }
+    }
+}
